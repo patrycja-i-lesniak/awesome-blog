@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/awesome-blog/static/css/main.0fe6e227.css",
+    "main.js": "/awesome-blog/static/js/main.5123f60f.js",
+    "index.html": "/awesome-blog/index.html",
+    "main.0fe6e227.css.map": "/awesome-blog/static/css/main.0fe6e227.css.map",
+    "main.5123f60f.js.map": "/awesome-blog/static/js/main.5123f60f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fe6e227.css",
+    "static/js/main.5123f60f.js"
+  ]
+}
